@@ -1,0 +1,15 @@
+*Compress all the files into a .zip and then change its file extension to .love to make a love file.
+
+*First open cmd in administrator mode.
+
+*Then cd into the Love converter directory:
+	{   cd E:\Love apps\Love converter     }
+
+*Enter the following command:
+	{  copy /b love.exe+SuperGame.love SuperGame.exe  }
+
+*A new exe file will be created with the existing file.
+
+*The original love file will not be deleted.
+
+#If you are using the above command {  copy /b love.exe+SuperGame.love SuperGame.exe  } then dont forget to change the name of the love file to "SuperGame"
